@@ -1,0 +1,15 @@
+---
+title: "uRos 2026: Starting tomorrow Nov 18th !!!"
+author: "Anna Smyk"
+date: "2026-11-17"
+categories: [Talks on JD+]
+image: "IMG_3801.jpeg"
+---
+
+The [uRos 2026 (Use of R in Official Statistics)](https://r-project.ro/conference2026.html) conference starts tomorrow.
+
+Full House : 215 participants from 33 countries !
+
+Looking forward to meeting you, R-users !
+
+Check out the [live page](https://r-project.ro/conference2026-live.html)
